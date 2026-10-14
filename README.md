@@ -38,10 +38,10 @@ It works like the dating apps you already know, so there's nothing new to learn.
 
 ## What to try
 
-- **Sign up** and choose your cuddle style — **🫂 Big Spoon**, **🥰 Little Spoon**, or **🍴 Fork** (Fork = open to adult relations). You can pick more than one.
+- **Sign up** — set your **gender** and who you're **interested in**, then choose your cuddle style: **🫂 Big Spoon**, **🥰 Little Spoon**, or **🍴 Fork** (Fork = open to adult relations). You can pick more than one.
 - **Set who you want to see** while swiping.
 - **Swipe** — right (or tap ♥) to cuddle, left (or tap ✕) to pass. On a computer, drag the cards with your mouse.
-- **Match & chat** — matches appear under the Matches tab; messages are delivered live.
+- **Match & chat** — matches appear under the Matches tab; messages are delivered live. In a chat, tap **⋯** to view their profile, unmatch, block, or report.
 - **Your profile** — edit your name, bio, city, add photos, and update your cuddle styles anytime.
 
 ## Good to know — this is an early preview
