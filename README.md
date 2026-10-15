@@ -60,5 +60,5 @@ We'd love your thoughts — what felt good, what was confusing, what you'd want 
 ---
 
 <div align="center">
-<sub>Be kind, be safe, cuddle responsibly. 💜</sub>
+<sub>Be kind, be safe, cuddle responsibly. 🧡</sub>
 </div>
