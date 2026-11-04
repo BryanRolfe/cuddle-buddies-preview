@@ -66,7 +66,8 @@ Prefer typing? Start with `/` in the chat box to see command suggestions and
 tap one to autocomplete it. You can also send `/blackjack` (or `/bj 50` to set
 an initial wager), `/tictactoe` (or `/ttt 50`), `/daily`, `/credits`, and `/help`.
 🎲 **Both games are bettable:** Blackjack and Tic-Tac-Toe let you edit the
-wager or use the ±10 and MAX controls before each round.
+wager or use the ±10 and MAX controls before each round. Bets range from
+**1 to 1,000,000 credits**, up to your available balance; MAX respects both limits.
 
 ## ⏱️ Try it in 2 minutes
 
