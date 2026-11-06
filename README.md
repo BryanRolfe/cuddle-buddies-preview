@@ -154,7 +154,8 @@ A few to get you started:
 
 ## ✨ What to try
 
-- **Sign up** — set your **gender** and who you're **interested in**, then choose your cuddle style: **🫂 Big Spoon**, **🥰 Little Spoon**, **🍴 Fork** (Fork = open to adult relations), or **🥄 Spork** (Spork = open to a threesome). You can pick more than one.
+- **Sign up** — set your **gender** and who you're **interested in**, then choose your cuddle style: **🫂 Big Spoon**, **🥰 Little Spoon**, **🍴 Fork** (Fork = open to adult relations), or **🥄 Spork** (Spork = open to a threesome). You can pick more than one — an on-screen **key explains what each one means**.
+- **Fix your details** — in **Profile** you can edit your **birthdate** 🎂 (if your age looks wrong) and add **unlimited songs** 🎵 (Spotify / Apple Music / YouTube), which play in an in-app player.
 - **Set who you want to see** — change **Show me**, **Your gender**, or
   **Interested in** on your Profile. Discover refreshes when you return and
   waits for your changes to save. Mutual interests and cuddle style also narrow
@@ -171,7 +172,8 @@ A few to get you started:
   header's avatar/name to see photos, full bio, cuddle styles, and music.
 - **Share your profile** — on the **Profile** tab, tap **🔗 Share profile** to
   copy a public link (e.g. `cuddle-buddies.expo.app/u/<you>`). Anyone can open it
-  to view the profile, but they must **sign up** before they can like or message.
+  to view the profile — shown in **your chosen theme & app icon** 🎨 and with a rich
+  social-media preview — but they must **sign up** before they can like or message.
 - **Send faster** — **Enter sends**; desktop **Shift+Enter** makes a newline.
   Phone keyboard Return sends too.
 - **Unsend** — tap the visible **Unsend** action or long-press your own unread
