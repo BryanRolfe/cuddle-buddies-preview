@@ -169,6 +169,9 @@ A few to get you started:
   Typing `/` also autocompletes available commands.
 - **Open their profile** — tap a Discover card, a Matches avatar, or the chat
   header's avatar/name to see photos, full bio, cuddle styles, and music.
+- **Share your profile** — on the **Profile** tab, tap **🔗 Share profile** to
+  copy a public link (e.g. `cuddle-buddies.expo.app/u/<you>`). Anyone can open it
+  to view the profile, but they must **sign up** before they can like or message.
 - **Send faster** — **Enter sends**; desktop **Shift+Enter** makes a newline.
   Phone keyboard Return sends too.
 - **Unsend** — tap the visible **Unsend** action or long-press your own unread
