@@ -154,7 +154,7 @@ A few to get you started:
 
 ## ✨ What to try
 
-- **Sign up** — set your **gender** and who you're **interested in**, then choose your cuddle style: **🫂 Big Spoon**, **🥰 Little Spoon**, or **🍴 Fork** (Fork = open to adult relations). You can pick more than one.
+- **Sign up** — set your **gender** and who you're **interested in**, then choose your cuddle style: **🫂 Big Spoon**, **🥰 Little Spoon**, **🍴 Fork** (Fork = open to adult relations), or **🥄 Spork** (Spork = open to a threesome). You can pick more than one.
 - **Set who you want to see** — change **Show me**, **Your gender**, or
   **Interested in** on your Profile. Discover refreshes when you return and
   waits for your changes to save. Mutual interests and cuddle style also narrow
