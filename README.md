@@ -41,7 +41,7 @@ It works like the dating apps you already know, so there's nothing new to learn.
 
 Open any chat and look just above the message box for the always-visible **PLAY
 IN CHAT** bar. Tap **⚔️ Play with [name]** to challenge your match, or play a
-solo round using **🃏 Blackjack** or **⭕ Tic-Tac-Toe**. The **💰 Daily +500**
+solo round using **🃏 Blackjack**, **⭕ Tic-Tac-Toe**, or **🎡 Roulette**. The **💰 Daily +500**
 button hides once claimed until it's ready again. Your credit balance is shown
 right there too.
 
@@ -64,9 +64,10 @@ The demo bot's stake comes from the demo bank, not that account's balance.
 
 Prefer typing? Start with `/` in the chat box to see command suggestions and
 tap one to autocomplete it. You can also send `/blackjack` (or `/bj 50` to set
-an initial wager), `/tictactoe` (or `/ttt 50`), `/daily`, `/credits`, and `/help`.
-🎲 **Both games are bettable:** Blackjack and Tic-Tac-Toe let you edit the
-wager or use the ±10 and MAX controls before each round. Bets range from
+an initial wager), `/tictactoe` (or `/ttt 50`), `/roulette` (or `/rl 50 red`),
+`/daily`, `/credits`, and `/help`.
+🎲 **Every solo game is bettable:** Blackjack, Tic-Tac-Toe, and Roulette let you
+edit the wager or use the ±10 and MAX controls before each round. Bets range from
 **1 to 1,000,000 credits**, up to your available balance; MAX respects both limits.
 
 ## ⏱️ Try it in 2 minutes
@@ -161,17 +162,18 @@ A few to get you started:
   waits for your changes to save. Mutual interests and cuddle style also narrow
   the feed; older profiles without a gender or stated interests may still appear.
 - **Swipe** — right (or tap ♥) to cuddle, left (or tap ✕) to pass. On a computer, drag the cards with your mouse.
-- **Not sure? Swipe up for Maybe** 🤔 — swipe up (or tap **?**) and that person
-  leaves your deck, then **comes back in 5 days** at the front of your feed,
-  tagged **Back from Maybe**, so you can decide again. A Maybe never counts as a
+- **Not sure? Swipe up for Maybe** 🤔 — swipe up (or tap **?**), choose
+  **1–5 days**, and that person leaves your deck until then. They come back at
+  the front of your feed, tagged **Back from Maybe**, so you can decide again.
+  Canceling the picker keeps the card. A Maybe never counts as a
   like, so it can't create a match on its own.
 - **Match & chat** — mutual likes create a match (demo profiles like you back
   instantly). Your messages are **orange**;
   replies are **blue**. Messages resync after reconnect or returning to the app.
 - **Play together** — the prominent **PLAY IN CHAT** bar sits above the
   composer in every conversation. Challenge your match to live Blackjack or
-  Tic-Tac-Toe, choose a demo bot, or use the solo-game and Daily Bonus buttons.
-  Typing `/` also autocompletes available commands.
+  Tic-Tac-Toe, choose a demo bot, or use the solo Blackjack, Tic-Tac-Toe,
+  Roulette, and Daily Bonus buttons. Typing `/` also autocompletes available commands.
 - **Open their profile** — tap a Discover card, a Matches avatar, or the chat
   header's avatar/name to see photos, full bio, cuddle styles, and music.
 - **Share your profile** — on the **Profile** tab, tap **🔗 Share profile** to
@@ -204,6 +206,7 @@ autocomplete a command. Sending a command works too:
 | --- | --- |
 | `/bj`, `/blackjack`, or `/bj 50` | Solo Blackjack against the dealer, with card images, **Hit / Stand**, and adjustable wagers |
 | `/ttt`, `/tictactoe`, or `/ttt 50` | Solo Tic-Tac-Toe against a bot with a responsive board and adjustable wagers — a win pays **2× your bet**, a draw refunds it, a loss loses it |
+| `/rl`, `/roulette`, or `/rl 50 red` | Solo single-zero Roulette — bet on 🔴 Red / ⚫ Black, Odd / Even, 1–18 / 19–36 (**2×**), a dozen (**3×**), or one number 0–36 (**36×**). Add a pick like `red`, `odd`, `2nd`, or `17` after the bet, or choose on the table. The server spins the wheel |
 | `/daily` | Claim **500 credits** once every **20 hours** — the Daily button hides after you claim it |
 | `/credits` or `/balance` | Check your current balance from the server |
 | `/help` | List the game commands |
