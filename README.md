@@ -161,6 +161,10 @@ A few to get you started:
   waits for your changes to save. Mutual interests and cuddle style also narrow
   the feed; older profiles without a gender or stated interests may still appear.
 - **Swipe** — right (or tap ♥) to cuddle, left (or tap ✕) to pass. On a computer, drag the cards with your mouse.
+- **Not sure? Swipe up for Maybe** 🤔 — swipe up (or tap **?**) and that person
+  leaves your deck, then **comes back in 5 days** at the front of your feed,
+  tagged **Back from Maybe**, so you can decide again. A Maybe never counts as a
+  like, so it can't create a match on its own.
 - **Match & chat** — mutual likes create a match (demo profiles like you back
   instantly). Your messages are **orange**;
   replies are **blue**. Messages resync after reconnect or returning to the app.
