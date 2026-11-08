@@ -66,9 +66,11 @@ Prefer typing? Start with `/` in the chat box to see command suggestions and
 tap one to autocomplete it. You can also send `/blackjack` (or `/bj 50` to set
 an initial wager), `/tictactoe` (or `/ttt 50`), `/roulette` (or `/rl 50 red`),
 `/daily`, `/credits`, and `/help`.
-🎲 **Every solo game is bettable:** Blackjack, Tic-Tac-Toe, and Roulette let you
-edit the wager or use the ±10 and MAX controls before each round. Bets range from
-**1 to 1,000,000 credits**, up to your available balance; MAX respects both limits.
+🎲 **Every solo game is bettable:** Blackjack and Tic-Tac-Toe let you edit the
+wager or use ±10 / MAX. Roulette lets you choose a chip value and place chips
+on a casino table, with **Undo / Clear** before spinning. Each round's total
+stake ranges from **1 to 1,000,000 credits**, up to your available balance;
+Roulette's MAX uses the allowance remaining after chips already placed.
 
 ## ⏱️ Try it in 2 minutes
 
@@ -206,10 +208,16 @@ autocomplete a command. Sending a command works too:
 | --- | --- |
 | `/bj`, `/blackjack`, or `/bj 50` | Solo Blackjack against the dealer, with card images, **Hit / Stand**, and adjustable wagers |
 | `/ttt`, `/tictactoe`, or `/ttt 50` | Solo Tic-Tac-Toe against a bot with a responsive board and adjustable wagers — a win pays **2× your bet**, a draw refunds it, a loss loses it |
-| `/rl`, `/roulette`, or `/rl 50 red` | Solo single-zero Roulette — bet on 🔴 Red / ⚫ Black, Odd / Even, 1–18 / 19–36 (**2×**), a dozen (**3×**), or one number 0–36 (**36×**). Add a pick like `red`, `odd`, `2nd`, or `17` after the bet, or choose on the table. The server spins the wheel |
+| `/rl`, `/roulette`, or `/rl 50 red` | Solo single-zero Roulette with a spinning wheel and casino table. Place chips on several numbers or outside bets: 🔴 Red / ⚫ Black, Odd / Even, 1–18 / 19–36 (**2×**), dozens or columns (**3×**), or numbers 0–36 (**36×**, stake included). Commands can preplace a pick such as `red`, `odd`, `2nd`, `col2`, or `17`; otherwise the table starts empty. All bets settle against one server-selected pocket |
 | `/daily` | Claim **500 credits** once every **20 hours** — the Daily button hides after you claim it |
 | `/credits` or `/balance` | Check your current balance from the server |
 | `/help` | List the game commands |
+
+For Roulette, choose a **1/5/25/100/500-credit chip**, type a custom value, or
+tap **MAX**, then tap the table. Repeated taps stack chips; **Undo** removes the
+last chip and **Clear** removes all bets. Swipe the table sideways on phones.
+Tap **Spin** and watch the wheel land on the server's result. The green 0 loses
+every outside bet. Closing Roulette does not cancel a submitted spin.
 
 New accounts begin with **1,000 play credits**. These are just for fun,
 have no cash value, and are unrelated to AI provider billing. Wager controls
