@@ -33,9 +33,13 @@ It works like the dating apps you already know, so there's nothing new to learn.
 <td align="center"><strong>💬 Cozy conversations</strong><br><img src="screenshots/chat-sam.png" alt="Chat with Sam, with orange sent messages and blue demo replies" width="240"></td>
 <td align="center"><strong>🃏 Play together</strong><br><img src="screenshots/blackjack-sam.png" alt="Blackjack in a chat with Sam, with card images and Hit and Stand controls" width="240"></td>
 </tr>
+<tr>
+<td align="center"><strong>🎡 Roulette</strong><br><img src="screenshots/roulette.png" alt="Roulette wheel and casino table with chips placed on red and even" width="240"></td>
+<td align="center"><strong>⭕ Tic-Tac-Toe</strong><br><img src="screenshots/tictactoe.png" alt="A solo Tic-Tac-Toe game in progress against the computer" width="240"></td>
+</tr>
 </table>
 
-<sub>Preview screenshots show demo profiles. Chat and profile examples use isolated sample data.</sub>
+<sub>Preview screenshots show demo profiles. Chat, profile, and game examples use isolated sample data.</sub>
 
 ## 🎮 Games are easy to find
 
